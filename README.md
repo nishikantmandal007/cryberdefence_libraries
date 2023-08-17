@@ -1,5 +1,3 @@
-# cryberdefence_libraries
-Libraries / tools for offensive Python
 Absolutely, I understand that additional details would be helpful, especially for newcomers to these libraries. Let's dive deeper into each of the libraries, providing more comprehensive information for new learners:
 
 ### Scapy:
@@ -575,4 +573,3 @@ shark
   - Cryptographic Examples with PyCryptodome: https://www.pycryptodome.org/src/cipher/aes.py.html
 
 Feel free to explore these libraries further, referring to the provided resources for more in-depth learning. Experiment with the example codes to gain hands-on experience and a better understanding of each library's capabilities and applications.
-
