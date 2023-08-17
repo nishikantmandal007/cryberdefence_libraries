@@ -812,7 +812,7 @@
     conn = SSL.Connection(ctx)
     conn.connect
 
-(("example.com", 443))
+    (("example.com", 443))
     conn.send(b"GET / HTTP/1.1\r\nHost: example.com\r\n\r\n")
     response = conn.recv(1024)
     conn.close()
