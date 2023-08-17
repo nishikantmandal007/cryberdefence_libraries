@@ -165,9 +165,7 @@ Absolutely, I understand that additional details would be helpful, especially fo
 - **Example Code:**
   ```python
   import socket
-  import
-
- socks
+  import socks
 
   socks.set_default_proxy(socks.SOCKS5, "proxy.example.com", 1080)
   socket.socket = socks.socksocket
