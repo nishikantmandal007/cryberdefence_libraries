@@ -136,8 +136,7 @@ Absolutely, I'll provide additional example codes and more utilization informati
 - **Example Code 1: Crafting and Sending SMB Packet:**
     ```python
     from impacket
-
- import smb
+    import smb
 
     pkt = smb.NewSMBPacket()
     pkt["Command"] = smb.SMB.SMB_COM_NEGOTIATE
@@ -885,6 +884,6 @@ I apologize for the oversight. Here are the details for the remaining libraries:
     ```
 - **Learning Resources:**
     - [PeachPy GitHub Repository](https://github.com/Maratyszcza/PeachPy)
-    - [PeachPy Documentation](https:// peachpy.readthedocs.io/en/latest/)
+    - [PeachPy Documentation](https://peachpy.readthedocs.io/en/latest/)
 
 Please note that working with assembly language and low-level code requires a good understanding of the underlying hardware architecture and the specific assembly language syntax for the target platform.
