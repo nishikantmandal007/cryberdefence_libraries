@@ -166,7 +166,6 @@ Absolutely, I understand that additional details would be helpful, especially fo
   ```python
   import socket
   import socks
-
   socks.set_default_proxy(socks.SOCKS5, "proxy.example.com", 1080)
   socket.socket = socks.socksocket
   response = requests.get("https://example.com")
