@@ -316,9 +316,7 @@
 
     compiled_rules = yara.compile(source=rules)
     matches = compiled_rules.match("file.exe")
-    for
-
- match in matches:
+    for match in matches:
         print(match)
     ```
 - **Learning Resources:**
