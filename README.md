@@ -53,6 +53,8 @@
     - [Official Documentation](https://nmap.org/book/)
     - [Nmap Tutorial](https://nmap.org/book/toc.html)
 
+---
+
 ## PyCrypto
 - **Description:** PyCrypto is an outdated library for cryptographic operations. Its successor is PyCryptodome, which provides a wide range of cryptographic functionalities.
 - **Installation:** PyCryptodome can be installed using pip: `pip install pycryptodome`.
@@ -79,6 +81,8 @@
     - [PyCryptodome Documentation](https://pycryptodome.readthedocs.io/en/latest/)
     - [Introduction to Cryptography with PyCryptodome](https://www.pycryptodome.org/src/cipher/aes.py.html)
 
+---
+
 ## Requests
 - **Description:** Requests is a popular Python library used for making HTTP requests to web servers. It simplifies the process of sending requests, handling responses, and working with web APIs.
 - **Installation:** Requests can be installed using pip: `pip install requests`.
@@ -102,6 +106,8 @@
 - **Learning Resources:**
     - [Official Documentation](https://docs.python-requests.org/en/master/)
     - [Requests Quickstart](https://docs.python-requests.org/en/master/user/quickstart/)
+
+---
 
 ## Beautiful Soup
 - **Description:** Beautiful Soup is a Python library used for parsing HTML and XML documents. It assists in extracting data from web pages and navigating their structure.
@@ -128,6 +134,8 @@
 - **Learning Resources:**
     - [Official Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
     - [Beautiful Soup Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)
+
+---
 
 ## Impacket
 - **Description:** Impacket is a Python library that provides programmatic access to network protocols. It's widely used in network penetration testing and security assessments.
@@ -156,6 +164,8 @@
     - [Official Repository](https://github.com/SecureAuthCorp/impacket)
     - [Impacket Usage Examples](https://github.com/SecureAuthCorp/impacket/tree/master/examples)
 
+---
+
 ## Paramiko
 - **Description:** Paramiko is a Python library used for implementing SSH (Secure Shell) protocols. It enables secure communication and remote execution over encrypted channels.
 - **Installation:** Paramiko can be installed using pip: `pip install paramiko`.
@@ -182,6 +192,8 @@
 - **Learning Resources:**
     - [Official Documentation](http://docs.paramiko.org/en/stable/)
     - [Paramiko Tutorial](https://www.paramiko.org/tutorial.html)
+
+---
 
 ## PySocks
 - **Description:** PySocks is a Python library that provides SOCKS (Socket Secure) proxy support for network connections. It allows you to route traffic through proxy servers.
@@ -211,6 +223,8 @@
     - [PySocks Documentation](https://github.com/Anorov/PySocks)
     - [Using SOCKS Proxies with Python](https://www.thepythoncode.com/article/use-socks-proxy-for-https-requests-in-python)
 
+---
+
 ## Pillow
 - **Description:** Pillow is a Python Imaging Library (PIL) fork that allows you to work with various image file formats, perform image manipulation, and process images.
 - **Installation:** Pillow can be installed using pip: `pip install Pillow`.
@@ -235,6 +249,8 @@
 - **Learning Resources:**
     - [Official Documentation](https://pillow.readthedocs.io/en/stable/index.html)
     - [Pillow Handbook](https://pillow.readthedocs.io/en/stable/handbook/index.html)
+
+---
 
 ## PyPDF2
 - **Description:** PyPDF2 is a Python library for working with PDF files. It provides features for reading, writing, and manipulating PDF documents.
@@ -268,6 +284,8 @@
 - **Learning Resources:**
     - [Official Documentation](https://pythonhosted.org/PyPDF2/)
     - [PyPDF2 Tutorial](https://realpython.com/pdf-python/)
+
+---
 
 ## YARA
 - **Description:** YARA is a powerful pattern-matching tool used for identifying and classifying malware based on predefined rules.
@@ -307,6 +325,8 @@
     - [Official Repository](https://github.com/VirusTotal/yara)
     - [YARA Documentation](https://yara.readthedocs.io/en/stable/index.html)
 
+---
+
 ## DPKT
 - **Description:** DPKT is a Python library that simplifies parsing and manipulating network packets.
 - **Installation:** DPKT can be installed using pip: `pip install dpkt`.
@@ -340,6 +360,8 @@
     - [DPKT Documentation](https://dpkt.readthedocs.io/en/latest/)
     - [Packet Parsing with DPKT](https://thepacketgeek.com/parsing-pcap-files-with-dpkt/)
 
+---
+
 ## Volatility
 - **Description:** Volatility is a Python framework used for memory forensics and analysis. It helps in examining volatile memory snapshots of running systems.
 - **Installation:** Volatility can be installed using pip: `pip install volatility`.
@@ -357,6 +379,8 @@
 - **Learning Resources:**
     - [Official Repository](https://github.com/volatilityfoundation/volatility)
     - [Volatility Documentation](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference)
+
+---
 
 ## Peach
 - **Description:** Peach is a Python library used for fuzzing and testing software applications. It generates test cases that aim to uncover vulnerabilities and issues in software.
@@ -388,6 +412,8 @@
 - **Learning Resources:**
     - [Official Repository](https://github.com/MozillaSecurity/peach)
     - [Peach Fuzzer Documentation](https://peachfuzzer.readthedocs.io/en/latest/index.html)
+
+---
 
 ## Twisted
 - **Description:** Twisted is an event-driven networking engine written in Python. It provides abstractions for handling asynchronous operations and building network applications.
@@ -427,6 +453,8 @@
     - [Official Documentation](https://twistedmatrix.com/trac/)
     - [Twisted Introduction](https://twistedmatrix.com/trac/wiki/TwistedIntroduction)
 
+---
+
 ## PyDbg
 - **Description:** PyDbg is a Python wrapper for the Windows Debugging API. It allows you to perform debugging and analysis of Windows executables.
 - **Installation:** PyDbg is available on GitHub: [PyDbg GitHub Repository](https://github.com/OpenRCE/pydbg).
@@ -459,6 +487,8 @@
     - [PyDbg Introduction](https://breakingcode.wordpress.com/2011/04/04/introducing-pydbg-a-windows-debugger-for-python/)
     - [Using PyDbg for Reverse Engineering](/wiki/Using-PyDbg-for-Reverse-Engineering)
 
+---
+
 ## Capstone
 - **Description:** Capstone is a lightweight multi-platform disassembly framework that allows you to disassemble binary code into human-readable assembly instructions.
 - **Installation:** Capstone can be installed using pip: `pip install capstone
@@ -488,6 +518,8 @@
     - [Official Repository](https://github.com/aquynh/capstone)
     - [Capstone Documentation](https://capstone-engine.org/documentation.html)
 
+---
+
 ## Wireshark
 - **Description:** Wireshark is a widely used network protocol analyzer that captures and inspects packets on a network in real-time.
 - **Installation:** Wireshark can be downloaded from the official website: [Download Wireshark](https://www.wireshark.org/download.html).
@@ -504,6 +536,8 @@
 - **Learning Resources:**
     - [Official Documentation](https://www.wireshark.org/docs/)
     - [Wireshark User Guide](https://www.wireshark.org/docs/wsug_html/)
+
+---
 
 ## Shell Code
 - **Description:** Shell code refers to small code snippets written in assembly language that are used as payloads in software vulnerabilities for exploitation.
@@ -579,6 +613,8 @@
     - [Shellcoding Basics](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
     - [Shellcoding on Linux](https://dhavalkapil.com/blogs/Shellcode-Injection/)
 
+---
+
 ## Passlib
 - **Description:** Passlib is a Python library that provides hashing and password storage functionality. It's designed to securely manage user passwords in applications.
 - **Installation:** Passlib can be installed using pip: `pip install passlib`.
@@ -603,6 +639,8 @@
     - [Passlib Documentation](https://passlib.readthedocs.io/en/stable/)
     - [Password Hashing in Python with Passlib](https://dev.to/jamesnza/password-hashing-in-python-with-passlib-6b7)
 
+---
+
 ## Radare2
 - **Description:** Radare2 is a highly customizable open-source framework for reverse engineering and analyzing binaries.
 - **Installation:** Radare2 can be installed from the official repository: [Radare2 GitHub Repository](https://github.com/radareorg/radare2).
@@ -625,6 +663,8 @@
 - **Learning Resources:**
     - [Official Repository](https://github.com/radareorg/radare2)
     - [Radare2 Book](https://radare.gitbooks.io/radare2book/content/)
+
+---
 
 ## Binwalk
 - **Description:** Binwalk is a fast and easy-to-use tool designed for analyzing, reverse engineering, and extracting firmware images, file systems, and binary data.
@@ -674,6 +714,8 @@
     - [Official Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
     - [Boto3 Getting Started](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
 
+---
+
 ## PyShark
 - **Description:** PyShark is a Python wrapper for the Wireshark network analysis tool. It allows you to dissect, analyze, and manipulate captured network packets.
 - **Installation:** PyShark can be installed using pip: `pip install pyshark`.
@@ -699,6 +741,8 @@
 - **Learning Resources:**
     - [PyShark Documentation](https://github.com/KimiNewt/pyshark)
     - [PyShark Tutorial](https://thepacketgeek.com/pyshark-pcap-a-few-examples/)
+
+---
 
 ## PyNaCl
 - **Description:** PyNaCl is a Python library that provides cryptographic primitives for encryption, decryption, signatures, password hashing, and more.
@@ -728,6 +772,8 @@
     - [PyNaCl Documentation](https://pynacl.readthedocs.io/en/stable/)
     - [Introduction to PyNaCl](https://pynacl.readthedocs.io/en/stable/secret/#overview)
 
+---
+
 ## VIVISECT
 - **Description:** VIVISECT is a Python library and framework designed for analyzing malware, binary files, and understanding their behavior.
 - **Installation:** VIVISECT can be cloned from the GitHub repository: [VIVISECT GitHub Repository](https://github.com/vivisect/vivisect).
@@ -752,6 +798,8 @@
 - **Learning Resources:**
     - [Official Repository](https://github.com/vivisect/vivisect)
     - [VIVISECT Tutorial](https://vivisect.readthedocs.io/en/latest/tutorial/index.html)
+
+---
 
 ## M2Crypto
 - **Description:** M2Crypto is a Python library that provides OpenSSL bindings for cryptographic operations and SSL/TLS functionality.
@@ -787,6 +835,8 @@
 Remember that using some of these libraries, particularly those related to security and cryptography, requires a good understanding of the concepts and proper implementation to ensure the security of your applications. Always refer to official documentation and additional resources when working with these libraries.
 I apologize for the oversight. Here are the details for the remaining libraries:
 
+---
+
 ## PyCryptodome
 - **Description:** PyCryptodome is a Python library that provides cryptographic primitives for various operations, including encryption, decryption, signatures, hashing, and more.
 - **Installation:** PyCryptodome can be installed using pip: `pip install pycryptodome`.
@@ -818,6 +868,8 @@ I apologize for the oversight. Here are the details for the remaining libraries:
 - **Learning Resources:**
     - [PyCryptodome Documentation](https://www.pycryptodome.org/)
     - [PyCryptodome Tutorial](https://www.pycryptodome.org/src/examples.html)
+
+---
 
 ## PeachPy
 - **Description:** PeachPy is a Python library used for assembling and disassembling assembly code. It simplifies the process of writing and analyzing low-level assembly language.
