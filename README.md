@@ -383,6 +383,7 @@
 ---
 
 ## Peach
+- **NOTE:** Peach is compatible with python2 not python3.
 - **Description:** Peach is a Python library used for fuzzing and testing software applications. It generates test cases that aim to uncover vulnerabilities and issues in software.
 - **Installation:** Peach can be installed using pip: `pip install PeachPy`.
 - **Utilization:** Peach is used for automated testing, generating test inputs, and identifying vulnerabilities in software.
